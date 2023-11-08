@@ -4,13 +4,15 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+There!+👋;+I'm+Thisara+Rathnapala!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from Srilanka 🇱🇰</h3>
+<h3 align="center">A passionate Software Engineer from Srilanka 🇱🇰</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently working in **IJSE, Panadura** as a Trainee Software Engineer 
+ 👨‍🎓 I'm an Engineering Graduate of General Sir John Kotelawala Defence University.
+ 
+ 🔭 I’m currently working in **IJSE-Institute of Software Engineering** as a Trainee Software Engineer 
  
  🌱 I’m currently learning **React, JavaScript, Node.js, Java, SpringBoot, Angular**
 
@@ -27,6 +29,7 @@
   <a href="https://www.linkedin.com/in/thisararathnapala" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
+    
 <!--   <a href="https://salesp07.github.io" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a> 
