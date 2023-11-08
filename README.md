@@ -10,13 +10,13 @@
 
 <div align="center">
  
- 🔭 I’m currently work in **IJSE Panadura**
+ 🔭 I’m currently working in **IJSE, Panadura** as a Trainee Software Engineer 
  
  🌱 I’m currently learning **React, JavaScript, Node.js, Java, SpringBoot, Angular**
 
- 💬 Ask me about **React, HTML5, CSS, Bootstrap, Java**
+ 💬 Ask me about **Java, SQL, HTML5, CSS, Bootstrap**
 
- ⚡ Fun fact **Playing Video Games & Youtubing when I'm in Free**
+ ⚡ Fun fact **Travelling on vacations & listening to music I'm in Free**
  
  </div>
  
