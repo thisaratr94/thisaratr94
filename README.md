@@ -19,8 +19,16 @@
  💬 Ask me about **Java, SQL, HTML5, CSS, Bootstrap**
 
  ⚡ Fun fact **Travelling on vacations & listening to music I'm in Free**
+
+ <br>
  
  </div>
+
+  <hr/>
+
+<h2 align="center">⚒️ Connect with me ⚒️</h2>
+<br/>
+ <br>
  
 <div align="center"> 
   <a href="mailto:thisaratr94@gmail.com">
