@@ -34,10 +34,10 @@
   <a href="mailto:thisaratr94@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://www.linkedin.com/in/thisararathnapala" target="_blank">
+  <a href="https://www.linkedin.com/in/thisaratr94" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://twitter.com/ThisaraTR" target="blank"><img align="center" justify-item="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"  height="50" width="60" />
+  <a href="https://twitter.com/thisaratr94" target="blank"><img align="center" justify-item="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"  height="50" width="60" />
   </a>
     
 <!--   <a href="https://salesp07.github.io" target="_blank">
