@@ -29,6 +29,8 @@
   <a href="https://www.linkedin.com/in/thisararathnapala" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
+  <a href="https://twitter.com/ThisaraTR" target="blank"><img align="center" justify-item="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"  height="50" width="60" />
+  </a>
     
 <!--   <a href="https://salesp07.github.io" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
@@ -40,7 +42,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,figma,git" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,figma,git" /><br>
     <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,java,mysql,postgresql" /><br>
 </div>
 
