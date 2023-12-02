@@ -50,8 +50,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,figma,git" /><br>
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,java,mysql,postgresql" /><br>
+    <img src="https://skillicons.dev/icons?i=java,spring,html,css,javascript,scss,typescript,jquery,angular,react" /><br>
+    <img src="https://skillicons.dev/icons?i=bootstrap,nodejs,firebase,mysql,postgresql,postman,github,figma,git,vscode" /><br>
 </div>
 
 <br/>
