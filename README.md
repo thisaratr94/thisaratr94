@@ -16,9 +16,9 @@
  
  🌱 I’m currently learning **React, JavaScript, Node.js, Java, SpringBoot, Angular**
 
- 💬 Ask me about **Java, SQL, HTML5, CSS, Bootstrap**
+ 💬 Ask me about **Java, JavaEE, Sring Framework, SQL, HTML, CSS**
 
- ⚡ Fun fact **Travelling on vacations & listening to music I'm in Free**
+ ⚡ Fun fact **Travelling on vacations & listening to music when I'm Free**
 
  <br>
  
